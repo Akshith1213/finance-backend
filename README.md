@@ -16,6 +16,8 @@ A production-quality REST API for managing financial records with role-based acc
                                                            └──────────┘
 ```
 
+<img width="1408" height="768" alt="Architecture" src="https://github.com/user-attachments/assets/fdbde4de-4d23-4cbc-bc56-76521d6168cf" />
+
 
 
 ### Tech Stack
